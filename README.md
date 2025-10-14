@@ -3,6 +3,10 @@
 
 - - - - - - -
 
+![REFLEXIVE DESIGN](https://historiotheque.wordpress.com/wp-content/uploads/2025/10/536382407_17924402976101190_7364325914521678772_n.jpg)
+
+- - - - - - -
+
 ## Introduction: Reflexivity as the Condition of Design
 
 Reflexive Design emerges as both a practice and a philosophy situated at the intersection of aesthetics, cybernetics, and epistemology. It posits that all designed systems—whether artistic, technical, or institutional—contain within themselves the potential for self-reference, self-correction, and self-organization. To design reflexively is to design not an object but a process that thinks itself: a system capable of observing, recording, and recalibrating its own evolution in real time. The philosophy of Reflexive Design thus describes an ontology of processes rather than products, of operations that are aware of their own operations.
